@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+.env
+.flaskenv  # Often used alongside .env, good practice to include
+__pycache__
+*.pyc
+*.pyd
+.venv
+venv
+env
